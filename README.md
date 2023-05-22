@@ -3,3 +3,8 @@ Mi nombre es Begoña. Soy ingeniero de inteligencia artificial certificada por M
 
 He trabajado en varios proyectos interesantes y he logrado resultados impresionantes. Puedes ver algunos ejemplos de mis logros en mis repositorios de GitHub. Estoy constantemente buscando nuevas oportunidades para aplicar mis habilidades y aprender cosas nuevas.
 
+<p align="center">
+  <a href="https://jesuslagares.com/" target="_blank" rel="noreferrer"><img src="https://github.com/BegoOrtizDev/BegoOrtizDev/assets/109512832/52a790fd-5e57-4de1-baba-45e8d46ea4a9.jpg" alt="my banner"></a>
+</p>
+
+
