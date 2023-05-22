@@ -3,5 +3,7 @@ Mi nombre es Begoña. Soy ingeniero de inteligencia artificial certificada por M
 
 He trabajado en varios proyectos interesantes y he logrado resultados impresionantes. Puedes ver algunos ejemplos de mis logros en mis repositorios de GitHub. Estoy constantemente buscando nuevas oportunidades para aplicar mis habilidades y aprender cosas nuevas.
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BegoOrtizDev/BegoOrtizDev/main/INGENIERO%20IA%20MIC.jpg" alt="my banner">
+</p>
 
