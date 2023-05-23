@@ -78,3 +78,16 @@ Soy Begoña, ingeniero de IA certificada por Microsoft en Azure con conocimiento
 | Proyecto | Descripción |
 |:---:|:---|
 | <!-- Agrega la imagen del proyecto en la primera columna --> <a href="https://github.com/BegoOrtizDev/cv-app"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BegoOrtizDev&repo=cv-app&theme=tokyonight"/></a> | <!-- Agrega la descripción del proyecto en la segunda columna --> **cv-app**: Este es un analizador de CV que utiliza técnicas de procesamiento de lenguaje natural para extraer información relevante de los currículums y ayudar a los reclutadores a tomar decisiones informadas. |
+  
+  ## Contacto
+  <a href="https://www.linkedin.com/in/ifeanyi-nneji-719989235" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+  
+<p align="center">
+  Última actualización: 23 de mayo de 2023
+</p>
+
+
+
+
