@@ -1,18 +1,18 @@
-<p align="center">
-  <img src="Mi_logo.png" alt="my banner" width="350">
-</p>
-
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenido+a+mi+perfil+de+GitHub!" />
   </a>
 </p>
+<p align="center">
+  <img src="Mi_logo.png" alt="my banner" width="350">
+</p>
 
-
-## Sobre mí 
+## Quién soy
 Soy Begoña, ingeniero de IA certificada por Microsoft en Azure con conocimientos en análisis y visualización de datos, NLP, Computer Vision y Azure Cognitive Services. He trabajado en proyectos interesantes y busco constantemente nuevas oportunidades para aplicar mis habilidades.
 
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## Habilidades Técnicas
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
@@ -72,7 +72,7 @@ Soy Begoña, ingeniero de IA certificada por Microsoft en Azure con conocimiento
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </a>
 
-## Projects
+## Projectos
 ¡No te pierdas mis otros proyectos en la sección de Proyectos de mi perfil de GitHub! Mientras tanto, echa un vistazo a mi último proyecto: un analizador de CV para reclutadores de RRHH. ¡Te sorprenderá lo que puede hacer!
 <!-- Crea una tabla con dos columnas y agrega títulos a las columnas -->
 | Proyecto | Descripción |
